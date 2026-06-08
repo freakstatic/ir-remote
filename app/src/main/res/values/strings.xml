@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IR Remote</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_no_ir">No IR</string>
+    <string name="error_ir_send_failed">IR send failed: %1$s</string>
+</resources>
