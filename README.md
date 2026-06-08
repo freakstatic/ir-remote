@@ -4,6 +4,10 @@ A simple, polished Android IR remote app without any ads.
 
 The app is designed for phones with a built-in infrared blaster. It provides a clean touch interface for controlling the Logitech Z607 5.1 Surround System. Feel free to create a merge request to add support for more devices!
 
+<p align="center">
+  <img width="303" height="600" alt="image" src="https://github.com/user-attachments/assets/2408ad64-68e0-4ecc-b54c-1b448e81c823" />
+</p>
+
 The physical Logitech controller kept getting broken and I got tired of using apps with annoying ads (each time I want to control the volume of my TV!) so I reverse engineer the IR codes with the help of my crustacean friend 🦞.
 
 > This project is independent and is not affiliated with, endorsed by, or sponsored by any device manufacturer.
