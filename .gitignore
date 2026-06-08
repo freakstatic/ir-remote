@@ -23,6 +23,10 @@ app/build/
 # Local configuration (contains SDK paths)
 local.properties
 
+# Release signing — never commit the keystore or its credentials
+release.jks
+keystore.properties
+
 # Android Studio
 .idea/
 *.iml
